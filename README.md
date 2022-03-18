@@ -17,9 +17,9 @@ Build a passenger counter app.
 
 ### Links
 
-- Solution URL: https://github.com/gdcristea/bored-bot
+- Solution URL: https://github.com/gdcristea/passenger-counter-app
 
-- Live Site URL: https://gdcristea.github.io/bored-bot/
+- Live Site URL: https://gdcristea.github.io/passenger-counter-app/
 
 ## Author
 
